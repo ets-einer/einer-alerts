@@ -1,6 +1,6 @@
 {
   "name": "einer-alerts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An easy way for developers start using the alerts lib in another project, outside of the monorepo",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,9 @@
   },
   "devDependencies": {
     "@types/react": "^18.2.20",
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.28",
+    "tailwindcss": "^3.3.3",
     "typescript": "^5.1.6"
   },
   "keywords": [],

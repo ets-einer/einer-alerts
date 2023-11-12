@@ -1,6 +1,6 @@
 {
   "name": "einer-alerts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An easy way for developers start using the alerts lib in another project, outside of the monorepo",
   "main": "index.js",
   "scripts": {

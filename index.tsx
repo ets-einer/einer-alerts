@@ -44,7 +44,7 @@ export const Alert = () => {
                 "border-blue-500 bg-blue-50 text-blue-900": type === "Info",
                 "border-red-500 bg-red-100 text-red-900": type === "Error",
                 "border-orange-500 bg-orange-50 text-orange-900": type === "Warning",
-                "border-green-500 bg-green-100 text-gree-900": type === "Success"
+                "border-green-500 bg-green-100 text-green-900": type === "Success"
             })}
         >
             <div className="text font-bold">{alertTitle}</div>
